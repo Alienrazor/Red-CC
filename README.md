@@ -26,6 +26,6 @@ python cc.py
 #
 <p align="center">
 
-<img src='Red-CC/' style="height:100px;width:100px;" >
+<img src='Red-CC/IMG_20220824_143754.JPG' style="height:100px;width:100px;" >
 
 </p>
