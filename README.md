@@ -24,8 +24,4 @@ python cc.py
 
 
 #
-<p align="center">
-
-<img src='asset/IMG_20220824_143754.JPG' style="height:100px;width:100px;" >
-
-</p>
+<p align="center"><a href="https://Alienrazor.github.io"><img width="60%" alt="Hello, I'm Anurag. I do open source!" src="./asset/IMG_20220824_143754.jpeg" /></a></p>
