@@ -6,6 +6,8 @@ pkg install python
 
 pkg install python2
 
+pip install setuptools
+
 pip install requests
 
 pip install mechanize
